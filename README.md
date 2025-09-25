@@ -23,13 +23,14 @@
 
 ---
 
-## 🔗 Links
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/yash-garg-ab4817285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash garg" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/yash807668" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="yash807668" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/yash_245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="yash_245" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/yash80emn2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="yash80emn2/profile" height="30" width="40" /></a>
+</p>
 
-📧 [Contact via Email](mailto:ygarg245@gmail.com)
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yash-garg-ab4817285?trk=contact-info)
-📍 Rohini, New Delhi  
-
----
 
 
 > "Think it. Build it. Ship it."
